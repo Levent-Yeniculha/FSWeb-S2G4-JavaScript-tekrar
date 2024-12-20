@@ -157,6 +157,7 @@ for (let sayi in tekrarEdenSayilar) {
       `${sayi} sayısı ${tekrarEdenSayilar[sayi]} kere tekrar edilmiştir`
     );
   }
+  
 }
 
 
